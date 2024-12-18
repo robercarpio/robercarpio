@@ -41,14 +41,9 @@
     
 <br>
 
-
-</p>
-
-<br>
-<br>
-
-<div align=center>
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/rcarpio-" alt="loruzqui's 42 stats" /></a>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=robercarpio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=robercarpio&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robercarpio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
