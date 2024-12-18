@@ -8,7 +8,7 @@
 <br><br>
 
 - :technologist: I am a Junior Software Developer
-- :school: Student for 42 Madrid
+- :school: Student at 42 Madrid
 - :trophy: 1x `Hackathon` winner.
 <br>
 
